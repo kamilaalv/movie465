@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B650491E-E85D-4258-87E0-D3D8AE7246EF}|CORE\\CORE.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\core\\app\\features\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650491E-E85D-4258-87E0-D3D8AE7246EF}|CORE\\CORE.csproj|solutionrelative:core\\app\\features\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.users\\features\\roles\\rolequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\roles\\rolequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.users\\features\\roles\\rolecreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\roles\\rolecreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.users\\features\\skills\\skillcreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\skills\\skillcreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.users\\features\\roles\\roleupdatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\roles\\roleupdatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.users\\features\\roles\\roledeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B82CB2-ED59-44BE-872A-17F8A6C4CEE2}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\roles\\roledeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\directors\\directordeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\directors\\directordeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\genres\\genrequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\genres\\genrequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\genres\\genredeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\genres\\genredeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\genres\\genrecreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\genres\\genrecreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\directors\\directorupdatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\directors\\directorupdatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\genres\\genreupdatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\genres\\genreupdatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650491E-E85D-4258-87E0-D3D8AE7246EF}|CORE\\CORE.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\core\\app\\features\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650491E-E85D-4258-87E0-D3D8AE7246EF}|CORE\\CORE.csproj|solutionrelative:core\\app\\features\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650491E-E85D-4258-87E0-D3D8AE7246EF}|CORE\\CORE.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\core\\app\\features\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650491E-E85D-4258-87E0-D3D8AE7246EF}|CORE\\CORE.csproj|solutionrelative:core\\app\\features\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B650491E-E85D-4258-87E0-D3D8AE7246EF}|CORE\\CORE.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\core\\app\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B650491E-E85D-4258-87E0-D3D8AE7246EF}|CORE\\CORE.csproj|solutionrelative:core\\app\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\movies\\moviecreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\movies\\moviecreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\movies\\moviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\movies\\moviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|c:\\users\\hp\\downloads\\final (2) (1)\\final\\app.movies\\features\\directors\\directorcreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\directors\\directorcreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Roles\\RoleQueryHandler.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Features\\Roles\\RoleQueryHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Roles\\RoleQueryHandler.cs",
+              "RelativeToolTip": "APP.Users\\Features\\Roles\\RoleQueryHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:23:09.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkillCreateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Skills\\SkillCreateHandler.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Features\\Skills\\SkillCreateHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Skills\\SkillCreateHandler.cs",
+              "RelativeToolTip": "APP.Users\\Features\\Skills\\SkillCreateHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:20:57.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleUpdateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Roles\\RoleUpdateHandler.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Features\\Roles\\RoleUpdateHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Roles\\RoleUpdateHandler.cs",
+              "RelativeToolTip": "APP.Users\\Features\\Roles\\RoleUpdateHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwB8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:20:50.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleDeleteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Roles\\RoleDeleteHandler.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Features\\Roles\\RoleDeleteHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Roles\\RoleDeleteHandler.cs",
+              "RelativeToolTip": "APP.Users\\Features\\Roles\\RoleDeleteHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:20:07.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenreQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Genres\\GenreQueryHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Genres\\GenreQueryHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Genres\\GenreQueryHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Genres\\GenreQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:15:48.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DirectorDeleteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Directors\\DirectorDeleteHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Directors\\DirectorDeleteHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Directors\\DirectorDeleteHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Directors\\DirectorDeleteHandler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:02:57.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\APP\\Features\\Response.cs",
+              "RelativeDocumentMoniker": "CORE\\APP\\Features\\Response.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\APP\\Features\\Response.cs*",
+              "RelativeToolTip": "CORE\\APP\\Features\\Response.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAzwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:05:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleCreateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Roles\\RoleCreateHandler.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Features\\Roles\\RoleCreateHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Users\\Features\\Roles\\RoleCreateHandler.cs",
+              "RelativeToolTip": "APP.Users\\Features\\Roles\\RoleCreateHandler.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:14:16.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenreDeleteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Genres\\GenreDeleteHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Genres\\GenreDeleteHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Genres\\GenreDeleteHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Genres\\GenreDeleteHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:08:46.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenreCreateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Genres\\GenreCreateHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Genres\\GenreCreateHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Genres\\GenreCreateHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Genres\\GenreCreateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:15:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DirectorUpdateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Directors\\DirectorUpdateHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Directors\\DirectorUpdateHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Directors\\DirectorUpdateHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Directors\\DirectorUpdateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:00:34.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenreUpdateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Genres\\GenreUpdateHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Genres\\GenreUpdateHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Genres\\GenreUpdateHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Genres\\GenreUpdateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:10:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\APP\\Features\\Request.cs",
+              "RelativeDocumentMoniker": "CORE\\APP\\Features\\Request.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\APP\\Features\\Request.cs",
+              "RelativeToolTip": "CORE\\APP\\Features\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:05:36.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\APP\\Features\\Handler.cs",
+              "RelativeDocumentMoniker": "CORE\\APP\\Features\\Handler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\APP\\Features\\Handler.cs",
+              "RelativeToolTip": "CORE\\APP\\Features\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:05:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\APP\\Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "CORE\\APP\\Domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\APP\\Domain\\Entity.cs",
+              "RelativeToolTip": "CORE\\APP\\Domain\\Entity.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:04:49.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieCreateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Movies\\MovieCreateHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Movies\\MovieCreateHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Movies\\MovieCreateHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Movies\\MovieCreateHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:03:41.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Movies\\MovieQueryHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Movies\\MovieQueryHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Movies\\MovieQueryHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Movies\\MovieQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:02:40.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DirectorCreateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Directors\\DirectorCreateHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\Directors\\DirectorCreateHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\Features\\Directors\\DirectorCreateHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\Directors\\DirectorCreateHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:02:17.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.NET.Sdk.ImportWorkloads.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-11T21:58:06.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

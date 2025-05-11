@@ -1,0 +1,10 @@
+C:\Users\Meska\Downloads\Final (3)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.csproj.AssemblyReference.cache
+C:\Users\Meska\Downloads\Final (3)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meska\Downloads\Final (3)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.AssemblyInfoInputs.cache
+C:\Users\Meska\Downloads\Final (3)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.AssemblyInfo.cs
+C:\Users\Meska\Downloads\Final (3)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.AssemblyInfo.cs
+C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.csproj.CoreCompileInputs.cache

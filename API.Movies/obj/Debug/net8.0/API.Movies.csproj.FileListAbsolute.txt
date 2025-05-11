@@ -1,0 +1,12 @@
+C:\Users\Meska\Downloads\Final (3)\Final\API.Movies\obj\Debug\net8.0\API.Movies.csproj.AssemblyReference.cache
+C:\Users\Meska\Downloads\Final (3)\Final\API.Movies\obj\Debug\net8.0\API.Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meska\Downloads\Final (3)\Final\API.Movies\obj\Debug\net8.0\API.Movies.AssemblyInfoInputs.cache
+C:\Users\Meska\Downloads\Final (3)\Final\API.Movies\obj\Debug\net8.0\API.Movies.AssemblyInfo.cs
+C:\Users\Meska\Downloads\Final (3)\Final\API.Movies\obj\Debug\net8.0\API.Movies.csproj.CoreCompileInputs.cache
+C:\Users\Meska\Downloads\Final (3)\Final\API.Movies\obj\Debug\net8.0\API.Movies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Movies\obj\Debug\net8.0\API.Movies.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Movies\obj\Debug\net8.0\API.Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Movies\obj\Debug\net8.0\API.Movies.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Movies\obj\Debug\net8.0\API.Movies.AssemblyInfo.cs
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Movies\obj\Debug\net8.0\API.Movies.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Movies\obj\Debug\net8.0\API.Movies.MvcApplicationPartsAssemblyInfo.cache

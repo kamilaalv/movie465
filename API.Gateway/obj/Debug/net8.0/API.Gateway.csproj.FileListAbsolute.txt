@@ -1,0 +1,168 @@
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\appsettings.Development.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\appsettings.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\ocelot.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.staticwebassets.endpoints.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.exe
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.deps.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.runtimeconfig.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.pdb
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\FluentValidation.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Google.Protobuf.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Grpc.Core.Api.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Grpc.Net.Client.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Grpc.Net.Common.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Ocelot.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Api.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Polly.Core.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Polly.Extensions.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Polly.RateLimiting.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Final.ServiceDefaults.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\bin\Debug\net8.0\Final.ServiceDefaults.pdb
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.csproj.AssemblyReference.cache
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.AssemblyInfoInputs.cache
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.AssemblyInfo.cs
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.csproj.CoreCompileInputs.cache
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\scopedcss\bundle\API.Gateway.styles.css
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.API.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.API.Gateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.API.Gateway.props
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.Gateway.props
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.Gateway.props
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gate.21D5DF05.Up2Date
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\refint\API.Gateway.dll
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.pdb
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.genruntimeconfig.cache
+E:\University\8th\CTIS-465\New\Final\API.Gateway\obj\Debug\net8.0\ref\API.Gateway.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\ocelot.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.staticwebassets.endpoints.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.exe
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.deps.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.runtimeconfig.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\API.Gateway.pdb
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Final.ServiceDefaults.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\bin\Debug\net8.0\Final.ServiceDefaults.pdb
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.AssemblyInfo.cs
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\scopedcss\bundle\API.Gateway.styles.css
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.API.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.API.Gateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.API.Gateway.props
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.Gateway.props
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.Gateway.props
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gate.21D5DF05.Up2Date
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\refint\API.Gateway.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.pdb
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\API.Gateway.genruntimeconfig.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\obj\Debug\net8.0\ref\API.Gateway.dll

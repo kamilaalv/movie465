@@ -1,0 +1,24 @@
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.deps.json
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.dll
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.pdb
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.csproj.AssemblyReference.cache
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.AssemblyInfoInputs.cache
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.AssemblyInfo.cs
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.dll
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\refint\Final.ServiceDefaults.dll
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.pdb
+E:\University\8th\CTIS-465\New\Final\Final.ServiceDefaults\obj\Debug\net8.0\ref\Final.ServiceDefaults.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.deps.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.pdb
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.AssemblyInfo.cs
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\refint\Final.ServiceDefaults.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.pdb
+C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\ref\Final.ServiceDefaults.dll

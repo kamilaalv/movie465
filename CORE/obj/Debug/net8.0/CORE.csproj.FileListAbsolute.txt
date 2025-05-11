@@ -1,0 +1,23 @@
+E:\University\8th\CTIS-465\New\Final\CORE\bin\Debug\net8.0\CORE.deps.json
+E:\University\8th\CTIS-465\New\Final\CORE\bin\Debug\net8.0\CORE.dll
+E:\University\8th\CTIS-465\New\Final\CORE\bin\Debug\net8.0\CORE.pdb
+E:\University\8th\CTIS-465\New\Final\CORE\obj\Debug\net8.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\8th\CTIS-465\New\Final\CORE\obj\Debug\net8.0\CORE.AssemblyInfoInputs.cache
+E:\University\8th\CTIS-465\New\Final\CORE\obj\Debug\net8.0\CORE.AssemblyInfo.cs
+E:\University\8th\CTIS-465\New\Final\CORE\obj\Debug\net8.0\CORE.csproj.CoreCompileInputs.cache
+E:\University\8th\CTIS-465\New\Final\CORE\obj\Debug\net8.0\CORE.dll
+E:\University\8th\CTIS-465\New\Final\CORE\obj\Debug\net8.0\refint\CORE.dll
+E:\University\8th\CTIS-465\New\Final\CORE\obj\Debug\net8.0\CORE.pdb
+E:\University\8th\CTIS-465\New\Final\CORE\obj\Debug\net8.0\ref\CORE.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\bin\Debug\net8.0\CORE.deps.json
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\bin\Debug\net8.0\CORE.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\bin\Debug\net8.0\CORE.pdb
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.AssemblyInfo.cs
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\refint\CORE.dll
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.pdb
+C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\ref\CORE.dll
