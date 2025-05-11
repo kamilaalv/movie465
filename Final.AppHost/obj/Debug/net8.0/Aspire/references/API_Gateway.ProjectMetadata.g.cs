@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class API_Gateway : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\HP\Downloads\Final (2) (1)\Final\API.Gateway\API.Gateway.csproj""";
+    public string ProjectPath => """M:\465\CTIS465\movie465\API.Gateway\API.Gateway.csproj""";
 }

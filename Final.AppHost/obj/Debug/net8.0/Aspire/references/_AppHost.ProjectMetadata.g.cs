@@ -8,5 +8,5 @@ namespace Projects;
 public class Final_AppHost
 {
     private Final_AppHost() { }
-    public static string ProjectPath => """C:\Users\HP\Downloads\Final (2) (1)\Final\Final.AppHost""";
+    public static string ProjectPath => """M:\465\CTIS465\movie465\Final.AppHost""";
 }

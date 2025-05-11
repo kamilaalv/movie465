@@ -3,6 +3,7 @@ using CORE.APP.Features;
 using MediatR;
 using System.Threading;
 using System.Threading.Tasks;
+using APP.Movies.Domain;
 
 namespace APP.Movies.Features.Directors
 {

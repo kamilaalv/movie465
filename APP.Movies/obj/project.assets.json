@@ -2042,7 +2042,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "MediatR": "12.5.0"
+          "MediatR": "12.5.0",
+          "Microsoft.EntityFrameworkCore": "9.0.4"
         },
         "compile": {
           "bin/placeholder/CORE.dll": {}
@@ -6208,23 +6209,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Users\\Meska\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\APP.Movies.csproj",
+      "projectUniqueName": "M:\\465\\CTIS465\\movie465\\APP.Movies\\APP.Movies.csproj",
       "projectName": "APP.Movies",
-      "projectPath": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\APP.Movies.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\APP.Movies\\obj\\",
+      "projectPath": "M:\\465\\CTIS465\\movie465\\APP.Movies\\APP.Movies.csproj",
+      "packagesPath": "C:\\Users\\Meska\\.nuget\\packages\\",
+      "outputPath": "M:\\465\\CTIS465\\movie465\\APP.Movies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Meska\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6233,14 +6234,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\CORE.csproj": {
-              "projectPath": "C:\\Users\\HP\\Downloads\\Final (2) (1)\\Final\\CORE\\CORE.csproj"
+            "M:\\465\\CTIS465\\movie465\\CORE\\CORE.csproj": {
+              "projectPath": "M:\\465\\CTIS465\\movie465\\CORE\\CORE.csproj"
             }
           }
         }
@@ -6255,7 +6257,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -6294,7 +6296,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

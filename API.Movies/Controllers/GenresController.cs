@@ -19,12 +19,9 @@ namespace API.Movies.Controllers
 
         // GET: api/Genres
         [HttpGet]
-        public async Task<ActionResult<List<GenreQueryResponse>>> Get([FromQuery] GenreQueryHandler request = null)
+        public async Task<ActionResult<List<GenreQueryResponse>>> Get([FromQuery] GenreQueryRequest request)
         {
-            if (request == null)
-                request = new GenreQueryHandler();
-
-            var response = await _mediator.Send(request);
+            var response = await _mediator.Send(request ?? new GenreQueryRequest());
 
             if (!response.IsSuccessful)
                 return BadRequest(response.Message);
@@ -36,13 +33,13 @@ namespace API.Movies.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<GenreQueryResponse>> Get(int id)
         {
-            var request = new GenreQueryHandler();
-            var response = await _mediator.Send(request);
+            var queryRequest = new GenreQueryRequest();
+            var queryResponse = await _mediator.Send(queryRequest);
 
-            if (!response.IsSuccessful)
-                return BadRequest(response.Message);
+            if (!queryResponse.IsSuccessful)
+                return BadRequest(queryResponse.Message);
 
-            var genre = response.Data.Find(g => g.Id == id);
+            var genre = queryResponse.Data.Find(g => g.Id == id);
 
             if (genre == null)
                 return NotFound($"Genre with ID {id} not found");
@@ -52,7 +49,7 @@ namespace API.Movies.Controllers
 
         // POST: api/Genres
         [HttpPost]
-        public async Task<ActionResult<int>> Post([FromBody] GenreCreateHandler request)
+        public async Task<ActionResult<int>> Post([FromBody] GenreCreateRequest request)
         {
             var response = await _mediator.Send(request);
 
@@ -81,11 +78,11 @@ namespace API.Movies.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var request = new GenreDeleteHandler { Id = id };
-            var response = await _mediator.Send(request);
+            var deleteRequest = new GenreDeleteRequest { Id = id };
+            var deleteResponse = await _mediator.Send(deleteRequest);
 
-            if (!response.IsSuccessful)
-                return BadRequest(response.Message);
+            if (!deleteResponse.IsSuccessful)
+                return BadRequest(deleteResponse.Message);
 
             return NoContent();
         }

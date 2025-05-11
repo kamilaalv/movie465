@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace APP.Movies.Features.Genres
 {
-    public class GenreQueryHandler : IRequest<Response<List<GenreQueryResponse>>>
+    public class GenreQueryRequest : IRequest<Response<List<GenreQueryResponse>>>
     {
         public string? NameFilter { get; set; }
     }
@@ -21,7 +21,7 @@ namespace APP.Movies.Features.Genres
         public int MovieCount { get; set; }
     }
 
-    public class GenreQueryHandler : Handler<GenreQueryHandler, Response<List<GenreQueryResponse>>>
+    public class GenreQueryHandler : Handler<GenreQueryRequest, Response<List<GenreQueryResponse>>>
     {
         private readonly MoviesDbHandler _dbHandler;
 
@@ -30,7 +30,7 @@ namespace APP.Movies.Features.Genres
             _dbHandler = dbHandler;
         }
 
-        public override async Task<Response<List<GenreQueryResponse>>> Handle(GenreQueryHandler request, CancellationToken cancellationToken)
+        public override async Task<Response<List<GenreQueryResponse>>> Handle(GenreQueryRequest request, CancellationToken cancellationToken)
         {
             var query = _dbHandler.Query<Genre>()
                 .Include(g => g.MovieGenres)

@@ -1,80 +1,110 @@
-﻿using APP.Movies;
+﻿using System;
+using System.Threading.Tasks;
+using APP.Movies;
 using APP.Movies.Domain;
 using APP.Movies.Features;
+using APP.Movies.Features.Genres;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 
-var builder = WebApplication.CreateBuilder(args);
-
-// Add service defaults from Aspire
-builder.AddServiceDefaults();
-
-// Add services to the container.
-builder.Services.AddControllers();
-
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-// Add DbContext
-builder.Services.AddDbContext<MoviesDb>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("MoviesConnection")));
-
-// Add MediatR
-builder.Services.AddMediatR(cfg => {
-    cfg.RegisterServicesFromAssembly(typeof(MoviesDb).Assembly);
-});
-
-// Add MoviesDbHandler
-builder.Services.AddScoped<MoviesDbHandler>();
-
-// Add CORS
-builder.Services.AddCors(options =>
+namespace API.Movies
 {
-    options.AddPolicy("AllowAll", builder =>
+    class Program
     {
-        builder.AllowAnyOrigin()
-               .AllowAnyMethod()
-               .AllowAnyHeader();
-    });
-});
+        public static async Task Main(string[] args)
+        {
+            // 1) Build the Host
+            using var host = Host.CreateDefaultBuilder(args)
+                .ConfigureAppConfiguration((ctx, cfg) =>
+                {
+                    // if you have appsettings.json in your console project
+                    cfg.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+                })
+                .ConfigureServices((context, services) =>
+                {
+                    // Logging
+                    services.AddLogging(cfg => cfg.AddConsole());
 
-var app = builder.Build();
+                    // EF Core DbContext
+                    services.AddDbContext<MoviesDb>(opts =>
+                        opts.UseSqlServer(
+                            context.Configuration.GetConnectionString("MoviesConnection")
+                        )
+                    );
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+                    // MediatR
+                    services.AddMediatR(cfg =>
+                        cfg.RegisterServicesFromAssembly(typeof(MoviesDb).Assembly)
+                    );
 
-app.UseHttpsRedirection();
+                    // Your handler abstraction
+                    services.AddScoped<MoviesDbHandler>();
 
-app.UseCors("AllowAll");
+                    // A small “driver” for console work:
+                    services.AddTransient<ConsoleApp>();
+                })
+                .Build();
 
-app.UseAuthorization();
+            // 2) Run migrations + seeding
+            using (var scope = host.Services.CreateScope())
+            {
+                var svc = scope.ServiceProvider;
+                var db = svc.GetRequiredService<MoviesDb>();
+                db.Database.Migrate();
+                await SeedData.Initialize(svc);
+            }
 
-app.MapControllers();
+            // 3) Kick off whatever console logic you like:
+            var consoleApp = host.Services.GetRequiredService<ConsoleApp>();
+            await consoleApp.RunAsync();
 
-// Map the health checks
-app.MapDefaultEndpoints();
-
-// Ensure the database is created, migrations are applied, and seed data is initialized
-using (var scope = app.Services.CreateScope())
-{
-    var services = scope.ServiceProvider;
-    try
-    {
-        var dbContext = services.GetRequiredService<MoviesDb>();
-        dbContext.Database.Migrate();
-
-        // Initialize seed data
-        await SeedData.Initialize(app.Services);
+            // (we don’t call host.Run() because we want to exit when RunAsync completes)
+        }
     }
-    catch (Exception ex)
+
+    public class ConsoleApp
     {
-        var logger = services.GetRequiredService<ILogger<Program>>();
-        logger.LogError(ex, "An error occurred while migrating or seeding the database.");
+        private readonly IMediator _mediator;
+        private readonly ILogger<ConsoleApp> _logger;
+
+        public ConsoleApp(IMediator mediator, ILogger<ConsoleApp> logger)
+        {
+            _mediator = mediator;
+            _logger = logger;
+        }
+
+        public async Task RunAsync()
+        {
+            _logger.LogInformation("Starting console application…");
+
+            // example: query all genres
+            var response = await _mediator.Send(new GenreQueryRequest());
+            if (!response.IsSuccessful)
+            {
+                _logger.LogError("GenreQuery failed: {msg}", response.Message);
+                return;
+            }
+
+            foreach (var g in response.Data)
+                Console.WriteLine($"#{g.Id}: {g.Name}");
+
+            // example: delete a genre
+            Console.Write("Enter a genre ID to delete: ");
+            if (int.TryParse(Console.ReadLine(), out var id))
+            {
+                var del = await _mediator.Send(new GenreDeleteRequest { Id = id });
+                var verb = del.IsSuccessful
+                    ? "deleted"
+                    : $"failed ({del.Message})";
+
+                Console.WriteLine($"Genre {verb}.");
+            }
+
+            _logger.LogInformation("Console application finished.");
+        }
     }
 }
-
-app.Run();

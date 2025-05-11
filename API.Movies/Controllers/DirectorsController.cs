@@ -81,7 +81,7 @@ namespace API.Movies.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var request = new DirectorDeleteHandler { Id = id };
+            var request = new DirectorDeleteRequest { Id = id };
             var response = await _mediator.Send(request);
 
             if (!response.IsSuccessful)

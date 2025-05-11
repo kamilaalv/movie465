@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace APP.Movies.Features.Genres
 {
-    public class GenreCreateHandler : IRequest<Response<int>>
+    public class GenreCreateRequest : IRequest<Response<int>>
     {
         public string Name { get; set; }
     }
 
-    public class GenreCreateHandler : Handler<GenreCreateHandler, Response<int>>
+    public class GenreCreateHandler : Handler<GenreCreateRequest, Response<int>>
     {
         private readonly MoviesDbHandler _dbHandler;
 
@@ -21,7 +21,7 @@ namespace APP.Movies.Features.Genres
             _dbHandler = dbHandler;
         }
 
-        public override async Task<Response<int>> Handle(GenreCreateHandler request, CancellationToken cancellationToken)
+        public override async Task<Response<int>> Handle(GenreCreateRequest request, CancellationToken cancellationToken)
         {
             // Check if genre with same name already exists
             var exists = await _dbHandler.Query<Genre>(g => g.Name.ToLower() == request.Name.ToLower())
