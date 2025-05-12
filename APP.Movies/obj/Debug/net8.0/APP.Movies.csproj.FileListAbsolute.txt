@@ -8,3 +8,21 @@ C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies
 C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.AssemblyInfoInputs.cache
 C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.AssemblyInfo.cs
 C:\Users\HP\Downloads\Final (2) (1)\Final\APP.Movies\obj\Debug\net8.0\APP.Movies.csproj.CoreCompileInputs.cache
+M:\465\CTIS465\movie465\APP.Movies\bin\Debug\net8.0\APP.Movies.deps.json
+M:\465\CTIS465\movie465\APP.Movies\bin\Debug\net8.0\APP.Movies.dll
+M:\465\CTIS465\movie465\APP.Movies\bin\Debug\net8.0\APP.Movies.pdb
+M:\465\CTIS465\movie465\APP.Movies\bin\Debug\net8.0\CORE.dll
+M:\465\CTIS465\movie465\APP.Movies\bin\Debug\net8.0\CORE.pdb
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.csproj.AssemblyReference.cache
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.GeneratedMSBuildEditorConfig.editorconfig
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.AssemblyInfoInputs.cache
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.AssemblyInfo.cs
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.csproj.CoreCompileInputs.cache
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.sourcelink.json
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.csproj.Up2Date
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.dll
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\refint\APP.Movies.dll
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.pdb
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\ref\APP.Movies.dll
+M:\465\CTIS465\movie465\APP.Movies\bin\Debug\net8.0\APP.Movies.runtimeconfig.json
+M:\465\CTIS465\movie465\APP.Movies\obj\Debug\net8.0\APP.Movies.genruntimeconfig.cache

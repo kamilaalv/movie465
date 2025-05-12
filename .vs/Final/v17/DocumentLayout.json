@@ -3,80 +3,28 @@
   "WorkspaceRootPath": "M:\\465\\CTIS465\\movie465\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|m:\\465\\ctis465\\movie465\\api.users\\controllers\\rolescontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|solutionrelative:api.users\\controllers\\rolescontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\465\\CTIS465\\movie465\\APP.Movies\\Migrations\\20250512171447_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APP.Movies\\Migrations\\20250512171447_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|m:\\465\\ctis465\\movie465\\api.users\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|solutionrelative:api.users\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\465\\CTIS465\\movie465\\APP.Users\\Migrations\\20250512171402_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APP.Users\\Migrations\\20250512171402_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|m:\\465\\ctis465\\movie465\\api.users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|solutionrelative:api.users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|m:\\465\\ctis465\\movie465\\api.users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|solutionrelative:api.users\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|m:\\465\\ctis465\\movie465\\api.users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|solutionrelative:api.users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\features\\users\\userdeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\users\\userdeletehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\features\\users\\userupdatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\users\\userupdatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|m:\\465\\ctis465\\movie465\\api.users\\api.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{54F55930-2A4C-4041-A851-F1CE8D591F58}|API.Users\\API.Users.csproj|solutionrelative:api.users\\api.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\features\\users\\usercreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\users\\usercreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\features\\users\\userqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\users\\userqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\features\\users\\refreshtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\users\\refreshtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\features\\users\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\users\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\features\\usersdbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\features\\usersdbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\465\\CTIS465\\movie465\\APP.Users\\Migrations\\20250512171129_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APP.Users\\Migrations\\20250512171129_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\app.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\app.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\domain\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\domain\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|m:\\465\\ctis465\\movie465\\app.movies\\domain\\moviesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\domain\\moviesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\domain\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\domain\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\domain\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\domain\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|m:\\465\\ctis465\\movie465\\app.users\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B82761-29B1-4248-8021-BE4D286ED0B5}|APP.Users\\APP.Users.csproj|solutionrelative:app.users\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|m:\\465\\ctis465\\movie465\\app.movies\\features\\moviesdbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD08D69C-826D-F1B6-A512-0D65D2FB86DD}|APP.Movies\\APP.Movies.csproj|solutionrelative:app.movies\\features\\moviesdbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -99,259 +51,82 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SkillsController.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\API.Users\\Controllers\\SkillsController.cs",
-              "RelativeDocumentMoniker": "API.Users\\Controllers\\SkillsController.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\API.Users\\Controllers\\SkillsController.cs",
-              "RelativeToolTip": "API.Users\\Controllers\\SkillsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:27:02.489Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RolesContoller.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\API.Users\\Controllers\\RolesContoller.cs",
-              "RelativeDocumentMoniker": "API.Users\\Controllers\\RolesContoller.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\API.Users\\Controllers\\RolesContoller.cs",
-              "RelativeToolTip": "API.Users\\Controllers\\RolesContoller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Title": "20250512171447_v1.cs",
+              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Movies\\Migrations\\20250512171447_v1.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Migrations\\20250512171447_v1.cs",
+              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Movies\\Migrations\\20250512171447_v1.cs",
+              "RelativeToolTip": "APP.Movies\\Migrations\\20250512171447_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:26:15.057Z",
+              "WhenOpened": "2025-05-12T17:14:47.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserDeleteHandler.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\UserDeleteHandler.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Features\\Users\\UserDeleteHandler.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\UserDeleteHandler.cs",
-              "RelativeToolTip": "APP.Users\\Features\\Users\\UserDeleteHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20250512171402_v1.cs",
+              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Migrations\\20250512171402_v1.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Migrations\\20250512171402_v1.cs",
+              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Migrations\\20250512171402_v1.cs",
+              "RelativeToolTip": "APP.Users\\Migrations\\20250512171402_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:23:32.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserUpdateHandler.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\UserUpdateHandler.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Features\\Users\\UserUpdateHandler.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\UserUpdateHandler.cs",
-              "RelativeToolTip": "APP.Users\\Features\\Users\\UserUpdateHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:23:04.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\API.Users\\appsettings.json",
-              "RelativeDocumentMoniker": "API.Users\\appsettings.json",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\API.Users\\appsettings.json",
-              "RelativeToolTip": "API.Users\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-11T23:22:25.522Z",
+              "WhenOpened": "2025-05-12T17:14:02.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\API.Users\\Program.cs",
-              "RelativeDocumentMoniker": "API.Users\\Program.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\API.Users\\Program.cs",
-              "RelativeToolTip": "API.Users\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Title": "20250512171129_v2.cs",
+              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Migrations\\20250512171129_v2.cs",
+              "RelativeDocumentMoniker": "APP.Users\\Migrations\\20250512171129_v2.cs",
+              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Migrations\\20250512171129_v2.cs",
+              "RelativeToolTip": "APP.Users\\Migrations\\20250512171129_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:21:53.135Z",
+              "WhenOpened": "2025-05-12T17:11:30.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "API.Users",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\API.Users\\API.Users.csproj",
-              "RelativeDocumentMoniker": "API.Users\\API.Users.csproj",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\API.Users\\API.Users.csproj",
-              "RelativeToolTip": "API.Users\\API.Users.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-11T23:21:14.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\API.Users\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "API.Users\\Controllers\\UsersController.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\API.Users\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "API.Users\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAIwIEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:20:21.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserCreateHandler.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\UserCreateHandler.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Features\\Users\\UserCreateHandler.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\UserCreateHandler.cs",
-              "RelativeToolTip": "APP.Users\\Features\\Users\\UserCreateHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:17:42.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserQueryHandler.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\UserQueryHandler.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Features\\Users\\UserQueryHandler.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\UserQueryHandler.cs",
-              "RelativeToolTip": "APP.Users\\Features\\Users\\UserQueryHandler.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA9wFAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:15:03.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RefreshTokenHandler.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\RefreshTokenHandler.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Features\\Users\\RefreshTokenHandler.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\RefreshTokenHandler.cs",
-              "RelativeToolTip": "APP.Users\\Features\\Users\\RefreshTokenHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:14:26.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TokenHandler.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\TokenHandler.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Features\\Users\\TokenHandler.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\Users\\TokenHandler.cs",
-              "RelativeToolTip": "APP.Users\\Features\\Users\\TokenHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:13:42.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsersDbHandler.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\UsersDbHandler.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Features\\UsersDbHandler.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Features\\UsersDbHandler.cs",
-              "RelativeToolTip": "APP.Users\\Features\\UsersDbHandler.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAIwAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:12:25.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "APP.Users",
+              "DocumentIndex": 3,
+              "Title": "APP.Users.csproj",
               "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\APP.Users.csproj",
               "RelativeDocumentMoniker": "APP.Users\\APP.Users.csproj",
               "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\APP.Users.csproj",
               "RelativeToolTip": "APP.Users\\APP.Users.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-11T23:11:00.259Z",
+              "WhenOpened": "2025-05-12T17:07:21.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UsersDb.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\UsersDb.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Domain\\UsersDb.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\UsersDb.cs",
-              "RelativeToolTip": "APP.Users\\Domain\\UsersDb.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:09:52.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserSkill.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\UserSkill.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Domain\\UserSkill.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\UserSkill.cs",
-              "RelativeToolTip": "APP.Users\\Domain\\UserSkill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:09:15.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\Skill.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Domain\\Skill.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\Skill.cs",
-              "RelativeToolTip": "APP.Users\\Domain\\Skill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:08:46.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Role.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\Role.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Domain\\Role.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\Role.cs",
-              "RelativeToolTip": "APP.Users\\Domain\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:08:27.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\User.cs",
-              "RelativeDocumentMoniker": "APP.Users\\Domain\\User.cs",
-              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Users\\Domain\\User.cs",
-              "RelativeToolTip": "APP.Users\\Domain\\User.cs",
+              "DocumentIndex": 4,
+              "Title": "MoviesDb.cs",
+              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Movies\\Domain\\MoviesDb.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Domain\\MoviesDb.cs",
+              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Movies\\Domain\\MoviesDb.cs",
+              "RelativeToolTip": "APP.Movies\\Domain\\MoviesDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T23:07:59.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T16:59:41.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesDbHandler.cs",
+              "DocumentMoniker": "M:\\465\\CTIS465\\movie465\\APP.Movies\\Features\\MoviesDbHandler.cs",
+              "RelativeDocumentMoniker": "APP.Movies\\Features\\MoviesDbHandler.cs",
+              "ToolTip": "M:\\465\\CTIS465\\movie465\\APP.Movies\\Features\\MoviesDbHandler.cs",
+              "RelativeToolTip": "APP.Movies\\Features\\MoviesDbHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:57:59.527Z"
             }
           ]
         }

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 namespace CORE.APP.Features
 {
     public class Response
@@ -42,24 +43,41 @@ namespace CORE.APP.Features
         {
             Data = data;
         }
-
-    
     }
 
-    public class CommandResponse : Entity
+    // Modified to be generic
+    public class CommandResponse : Response
     {
-        public bool IsSuccessful { get; }
-        public string Message { get; }
+        public CommandResponse() : base() { }
 
-        public CommandResponse(bool isSuccessful, string message = "", int id = 0) : base(id)
-        {
-            IsSuccessful = isSuccessful;
-            Message = message;
-        }
+        public CommandResponse(bool isSuccessful, string message) : base(isSuccessful, message) { }
     }
 
-    public class QueryResponse : Entity
-    { }
+    // Generic version of CommandResponse
+    public class CommandResponse<T> : Response<T>
+    {
+        public CommandResponse() : base() { }
 
+        public CommandResponse(bool isSuccessful, string message) : base(isSuccessful, message) { }
 
+        public CommandResponse(bool isSuccessful, string message, T data) : base(isSuccessful, message, data) { }
+    }
+
+    // Modified to be generic 
+    public class QueryResponse : Response
+    {
+        public QueryResponse() : base() { }
+
+        public QueryResponse(bool isSuccessful, string message) : base(isSuccessful, message) { }
+    }
+
+    // Generic version of QueryResponse
+    public class QueryResponse<T> : Response<T>
+    {
+        public QueryResponse() : base() { }
+
+        public QueryResponse(bool isSuccessful, string message) : base(isSuccessful, message) { }
+
+        public QueryResponse(bool isSuccessful, string message, T data) : base(isSuccessful, message, data) { }
+    }
 }

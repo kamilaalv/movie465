@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QXg7EicsGAxox+sjjdUlTz7KtgVKU7bXrZjxTpagJ8o=",
+  "Source": "API.Movies",
+  "BasePath": "_content/API.Movies",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

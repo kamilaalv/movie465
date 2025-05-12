@@ -22,3 +22,16 @@ C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0
 C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\refint\Final.ServiceDefaults.dll
 C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.pdb
 C:\Users\HP\Downloads\Final (2) (1)\Final\Final.ServiceDefaults\obj\Debug\net8.0\ref\Final.ServiceDefaults.dll
+M:\465\CTIS465\movie465\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.deps.json
+M:\465\CTIS465\movie465\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.dll
+M:\465\CTIS465\movie465\Final.ServiceDefaults\bin\Debug\net8.0\Final.ServiceDefaults.pdb
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.csproj.AssemblyReference.cache
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.AssemblyInfoInputs.cache
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.AssemblyInfo.cs
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.csproj.CoreCompileInputs.cache
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.sourcelink.json
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.dll
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\refint\Final.ServiceDefaults.dll
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\Final.ServiceDefaults.pdb
+M:\465\CTIS465\movie465\Final.ServiceDefaults\obj\Debug\net8.0\ref\Final.ServiceDefaults.dll

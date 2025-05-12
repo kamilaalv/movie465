@@ -21,3 +21,16 @@ C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.dll
 C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\refint\CORE.dll
 C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\CORE.pdb
 C:\Users\HP\Downloads\Final (2) (1)\Final\CORE\obj\Debug\net8.0\ref\CORE.dll
+M:\465\CTIS465\movie465\CORE\bin\Debug\net8.0\CORE.deps.json
+M:\465\CTIS465\movie465\CORE\bin\Debug\net8.0\CORE.dll
+M:\465\CTIS465\movie465\CORE\bin\Debug\net8.0\CORE.pdb
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\CORE.csproj.AssemblyReference.cache
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\CORE.AssemblyInfoInputs.cache
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\CORE.AssemblyInfo.cs
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\CORE.csproj.CoreCompileInputs.cache
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\CORE.sourcelink.json
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\CORE.dll
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\refint\CORE.dll
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\CORE.pdb
+M:\465\CTIS465\movie465\CORE\obj\Debug\net8.0\ref\CORE.dll
